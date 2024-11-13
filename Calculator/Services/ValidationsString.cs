@@ -7,10 +7,6 @@ namespace Calculator.Services
 {
     public class ValidationsString
     {
-        public int CountCharacters(string text)
-        {
-            int num = text.Length;
-            return num;
-        }
+        public int CountCharacters(string text) => text.Length;
     }
 }

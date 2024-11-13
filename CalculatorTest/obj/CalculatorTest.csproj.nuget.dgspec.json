@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCode\\estudos\\DIO\\C#\\ModuleTest\\CalculatorTest\\calculatortest.csproj": {}
+    "D:\\VSCode\\estudos\\DIO\\C#\\ModuleTest\\calculatorTest\\CalculatorTest.csproj": {}
   },
   "projects": {
-    "D:\\VSCode\\estudos\\DIO\\C#\\ModuleTest\\CalculatorTest\\calculatortest.csproj": {
+    "D:\\VSCode\\estudos\\DIO\\C#\\ModuleTest\\calculatorTest\\CalculatorTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCode\\estudos\\DIO\\C#\\ModuleTest\\CalculatorTest\\calculatortest.csproj",
-        "projectName": "calculatortest",
-        "projectPath": "D:\\VSCode\\estudos\\DIO\\C#\\ModuleTest\\CalculatorTest\\calculatortest.csproj",
+        "projectUniqueName": "D:\\VSCode\\estudos\\DIO\\C#\\ModuleTest\\calculatorTest\\CalculatorTest.csproj",
+        "projectName": "CalculatorTest",
+        "projectPath": "D:\\VSCode\\estudos\\DIO\\C#\\ModuleTest\\calculatorTest\\CalculatorTest.csproj",
         "packagesPath": "C:\\Users\\crisn\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCode\\estudos\\DIO\\C#\\ModuleTest\\CalculatorTest\\obj\\",
+        "outputPath": "D:\\VSCode\\estudos\\DIO\\C#\\ModuleTest\\calculatorTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crisn\\AppData\\Roaming\\NuGet\\NuGet.Config"

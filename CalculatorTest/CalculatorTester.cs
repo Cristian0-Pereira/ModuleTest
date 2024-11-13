@@ -6,10 +6,7 @@ public class CalculatorTester
 {
     private CalculatorImp _calc;
 
-    public CalculatorTester()
-    {
-        _calc = new CalculatorImp();
-    }
+    public CalculatorTester() => _calc = new CalculatorImp();
 
     [Fact]
     public void DeveSomar5com10ERetornar15()
@@ -37,4 +34,4 @@ public class CalculatorTester
     }
 }
 
-// Implementando validações de string
+// Verificando se um numero é par

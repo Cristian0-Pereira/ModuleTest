@@ -1,8 +1,5 @@
 ﻿using Calculator.Services;
 
-CalculatorImp c = new();
+var c = new CalculatorImp();
 
-int n1 = 5;
-int n2 = 10;
-
-Console.WriteLine($"{n1} + {n2} = {c.Add(n1, n2)}");
+Console.WriteLine($"5 + 10 = {c.Add(5, 10)}");
