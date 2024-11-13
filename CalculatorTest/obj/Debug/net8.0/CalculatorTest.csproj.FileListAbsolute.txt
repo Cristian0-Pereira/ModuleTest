@@ -97,9 +97,10 @@ D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\CalculatorTe
 D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\CalculatorTest.AssemblyInfoInputs.cache
 D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\CalculatorTest.AssemblyInfo.cs
 D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\CalculatorTest.csproj.CoreCompileInputs.cache
-D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\Calculat.02F3B5AA.Up2Date
 D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\CalculatorTest.dll
 D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\refint\CalculatorTest.dll
 D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\CalculatorTest.pdb
 D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\CalculatorTest.genruntimeconfig.cache
 D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\ref\CalculatorTest.dll
+D:\VSCode\estudos\DIO\C#\ModuleTest\CalculatorTest\obj\Debug\net8.0\calculatortest.sourcelink.json
+D:\VSCode\estudos\DIO\C#\ModuleTest\CalculatorTest\obj\Debug\net8.0\calculat.53C8A0EA.Up2Date

@@ -12,3 +12,4 @@ D:\VSCode\estudos\DIO\C#\moduletest\calculator\obj\Debug\net8.0\refint\Calculato
 D:\VSCode\estudos\DIO\C#\moduletest\calculator\obj\Debug\net8.0\Calculator.pdb
 D:\VSCode\estudos\DIO\C#\moduletest\calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 D:\VSCode\estudos\DIO\C#\moduletest\calculator\obj\Debug\net8.0\ref\Calculator.dll
+D:\VSCode\estudos\DIO\C#\ModuleTest\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
