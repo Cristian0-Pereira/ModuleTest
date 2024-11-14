@@ -103,4 +103,4 @@ D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\CalculatorTe
 D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\CalculatorTest.genruntimeconfig.cache
 D:\VSCode\estudos\DIO\C#\moduletest\calculatortest\obj\Debug\net8.0\ref\CalculatorTest.dll
 D:\VSCode\estudos\DIO\C#\ModuleTest\CalculatorTest\obj\Debug\net8.0\calculatortest.sourcelink.json
-D:\VSCode\estudos\DIO\C#\ModuleTest\calculatorTest\obj\Debug\net8.0\Calculat.02F3B5AA.Up2Date
+D:\VSCode\estudos\DIO\C#\ModuleTest\calculatortest\obj\Debug\net8.0\Calculat.02F3B5AA.Up2Date

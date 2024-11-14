@@ -12,26 +12,43 @@ public class CalculatorTester
     public void DeveSomar5com10ERetornar15()
     {
         // Arrange
-        int n1 = 5;
-        int n2 = 10;
-        int resultadoEsperado = 15;
+        int number1 = 5;
+        int number2 = 10;
+        int expectedResult = 15;
         // Act
-        int resultado = _calc.Add(n1, n2);
+        int result = _calc.Add(number1, number2);
         // Assert
-        Assert.Equal(resultadoEsperado, resultado);
+        Assert.Equal(expectedResult, result);
     }
         [Fact]
-    public void DeveSomar10com10ERetornar20()
+    public void Add10To10AndReturnumber20()
     {
         // Arrange
-        int n1 = 10;
-        int n2 = 10;
-        int resultadoEsperado = 20;
+        int number1 = 10;
+        int number2 = 10;
+        int expectedResult = 20;
         // Act
-        int resultado = _calc.Add(n1, n2);
+        int result = _calc.Add(number1, number2);
         // Assert
-        Assert.Equal(resultadoEsperado, resultado);
+        Assert.Equal(expectedResult, result);
+    }
+
+    [Fact]
+    public void CheckingIf4IsEvenAndReturningTrue()
+    {
+        // Arrange
+        int number  = 4;
+        // Act
+        bool result = _calc.IsPair(number);
+        // Assert
+        Assert.True(result);
+    }
+
+    [Theory]
+    [InlineData(new int[] { 2, 4, 6, 8, 10 })]
+    public void TestIsPairint(int[] numbers)
+    {
+        // Act/ Assert
+        Assert.All(numbers, number => Assert.True(_calc.IsPair(number)));
     }
 }
-
-// Verificando se um numero é par
